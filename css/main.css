@@ -1,7 +1,7 @@
 /* @import url("https://use.typekit.net/pgq2knl.css"); */
 @import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css");
 @import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap");
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+/* @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"); */
 @import url("https://fonts.googleapis.com/css?family=Abel|Open+Sans:400,400i");
 
 /* CSS Reset =========================== */
@@ -47,6 +47,13 @@ body {
   margin: 3rem 5rem 0rem 5rem;
   /* padding-top:1rem; */
   /* padding-right:4rem; */
+}
+.icon::before {
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
 }
 
 /* Default Structure =================== */
