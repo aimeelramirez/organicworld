@@ -19,6 +19,9 @@ Valid CSS!
     </a>
 </p>
 
+https://validator.unl.edu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Faimeelramirez.github.io%2Forganicworld
+https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Faimeelramirez.github.io%2Forganicworld%2F
+https://validator.w3.org/unicorn/check?ucn_uri=https%3A%2F%2Faimeelramirez.github.io%2Forganicworld%2F&ucn_task=conformance#
 
 Video 1:https://youtu.be/sItJ9_5VQRo
 
